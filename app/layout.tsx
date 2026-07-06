@@ -17,7 +17,7 @@ const inter = Inter({
 });
 
 // Pas dit aan naar het definitieve domein (met of zonder www).
-const siteUrl = "https://www.paris-bv.nl";
+const siteUrl = "https://paris-bv.nl";
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
